@@ -1,0 +1,13 @@
+.footer {
+    background-color: #0c0909;
+    padding: 10px;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    margin-top: 20px
+}
+
+.footer p {
+    color: #fff; /* Define a cor do texto como branco */
+    margin: 0; /* Remove a margem padrão */
+}
